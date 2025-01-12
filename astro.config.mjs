@@ -24,6 +24,7 @@ export default defineConfig({
 				{
 					label: 'Functions',
 				    autogenerate: { directory: 'functions' },
+			        collapsed: true
 				}
 			       ],
 		}),
