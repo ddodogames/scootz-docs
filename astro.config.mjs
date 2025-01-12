@@ -24,7 +24,7 @@ export default defineConfig({
 					label: 'Misc',
 			        items: [
 				// Each item here is one entry in the navigation menu.
-				      { label: 'Introduction', slug: 'misc' },
+				      { label: 'Introduction', link: 'misc' },
 			       ],
 				}
 			       ],
