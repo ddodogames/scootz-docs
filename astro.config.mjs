@@ -14,11 +14,18 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Functions',
+					label: 'Home',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Introduction', slug: 'guides/introduction' },
 					],
+				},
+				{
+					label: 'Misc',
+			        items: [
+				// Each item here is one entry in the navigation menu.
+				      { label: 'Introduction', slug: 'misc' },
+			       ],
 				}
 			       ],
 		}),
