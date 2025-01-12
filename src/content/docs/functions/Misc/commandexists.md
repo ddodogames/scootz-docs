@@ -9,7 +9,8 @@ $commandExists[name]
 ```
 
 # Parameters
-| Field | Type | Description | Required? 
+| Field | Type | Description | Required? |
+|--------|--------|--------|--------|
 | name | string | Name of the command to check | true 
 
 # Example
