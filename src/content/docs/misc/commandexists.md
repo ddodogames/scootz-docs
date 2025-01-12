@@ -9,8 +9,8 @@ $commandExists[name]
 ```
 
 # Parameters
-| Field | Type | Description | Required? |
-| name | string | Name of the command to check | true |
+| Field | Type | Description | Required? 
+| name | string | Name of the command to check | true 
 
 # Example
 Returns `true` if the command `help` exists otherwise `false` if it does not.
