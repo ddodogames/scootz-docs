@@ -19,10 +19,11 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Introduction', slug: 'guides/introduction' },
 					],
+			    collapsed: true
 				},
 				{
-					label: 'Misc',
-				    autogenerate: { directory: 'misc' },
+					label: 'Functions',
+				    autogenerate: { directory: 'functions' },
 				}
 			       ],
 		}),
