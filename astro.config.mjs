@@ -4,10 +4,10 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: "https://ddodogames.github.io",
+	base: "/scootz-docs",
 	integrations: [
 		starlight({
-                        site: "https://ddodogames.github.io",
-                        base: "/scootz-docs",
 			title: 'scootz.js',
 			social: {
 				github: 'https://github.com/ddodogames/scootz.js',
