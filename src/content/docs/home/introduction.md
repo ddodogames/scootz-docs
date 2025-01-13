@@ -1,6 +1,5 @@
 ---
 title: Introduction
-description: A guide in my new Starlight docs site.
 ---
 
 `scootz.js` is a silly package for aoi.js that registers custom functions you can use.
