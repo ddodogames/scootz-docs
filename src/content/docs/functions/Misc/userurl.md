@@ -14,7 +14,7 @@ $userURL[userID]
 | userID | string | id of the user to return their link | true 
 
 # Example
-Returns `true` if the command `help` exists otherwise `false` if it does not.
+This will return your Discord link.
 ```js
 $userURL[$authorID]
 ```
