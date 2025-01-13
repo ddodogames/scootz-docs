@@ -15,11 +15,8 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Home',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Introduction', slug: 'guides/introduction' },
-					],
-			    collapsed: true
+			autogenerate: { directory: 'home' },
+			collapsed: true
 				},
 				{
 					label: 'Functions',
