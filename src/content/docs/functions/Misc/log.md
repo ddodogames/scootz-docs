@@ -15,7 +15,7 @@ $log[text;color?]
 | color | string | Color to use for the text | false 
 
 # Example
-This will log "Hello world!" in red color.
+This will log "Hello world!" in green color.
 ```js
 $log[Hello world!;#57F287]
 ```
