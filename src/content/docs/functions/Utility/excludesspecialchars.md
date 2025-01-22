@@ -14,7 +14,7 @@ $excludeSpecialChars[text]
 | text | string | text to remove the special chars | true 
 
 # Example
-This will remove `#` from the message.
+This will remove `#!` from the message.
 ```js
 $excludeSpecialChars[hello#!]
 ```
