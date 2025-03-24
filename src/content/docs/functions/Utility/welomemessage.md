@@ -18,6 +18,7 @@ $welcomeMessage[text]
 |--------|--------|
 | `<username>` | Returns the member's username |
 | `<Displayname>` | Returns the member's display name |
+| `<globalname>` | Returns the member's global name |
 | `<mention>` | Mentions the member |
 | `<id>` | Returns the member's id |
 | `<owner.username>` | Returns the server owner's username |
